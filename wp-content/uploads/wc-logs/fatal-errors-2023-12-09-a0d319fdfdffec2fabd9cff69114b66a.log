@@ -1,0 +1,26 @@
+2023-12-09T15:26:36+00:00 CRITICAL Uncaught ArgumentCountError: 3 arguments are required, 2 given in D:\laragon\www\sata\wp-content\themes\newsup\footer.php:177
+Stack trace:
+#0 D:\laragon\www\sata\wp-content\themes\newsup\footer.php(177): printf('S\xE1\xBA\xAFt th\xC3\xA9p %1$...', 'Sata')
+#1 D:\laragon\www\sata\wp-includes\template.php(790): require_once('D:\\laragon\\www\\...')
+#2 D:\laragon\www\sata\wp-includes\template.php(725): load_template('D:\\laragon\\www\\...', true, Array)
+#3 D:\laragon\www\sata\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#4 D:\laragon\www\sata\wp-content\themes\newsup\template-frontpage.php(15): get_footer()
+#5 D:\laragon\www\sata\wp-includes\template-loader.php(106): include('D:\\laragon\\www\\...')
+#6 D:\laragon\www\sata\wp-blog-header.php(19): require_once('D:\\laragon\\www\\...')
+#7 D:\laragon\www\sata\index.php(17): require('D:\\laragon\\www\\...')
+#8 {main}
+  thrown in D:\laragon\www\sata\wp-content\themes\newsup\footer.php on line 177
+
+2023-12-09T15:28:06+00:00 CRITICAL Uncaught ArgumentCountError: 3 arguments are required, 2 given in D:\laragon\www\sata\wp-content\themes\newsup\footer.php:177
+Stack trace:
+#0 D:\laragon\www\sata\wp-content\themes\newsup\footer.php(177): printf('S\xE1\xBA\xAFt th\xC3\xA9p %1$...', 'Sata')
+#1 D:\laragon\www\sata\wp-includes\template.php(790): require_once('D:\\laragon\\www\\...')
+#2 D:\laragon\www\sata\wp-includes\template.php(725): load_template('D:\\laragon\\www\\...', true, Array)
+#3 D:\laragon\www\sata\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#4 D:\laragon\www\sata\wp-content\themes\newsup\template-frontpage.php(15): get_footer()
+#5 D:\laragon\www\sata\wp-includes\template-loader.php(106): include('D:\\laragon\\www\\...')
+#6 D:\laragon\www\sata\wp-blog-header.php(19): require_once('D:\\laragon\\www\\...')
+#7 D:\laragon\www\sata\index.php(17): require('D:\\laragon\\www\\...')
+#8 {main}
+  thrown in D:\laragon\www\sata\wp-content\themes\newsup\footer.php on line 177
+

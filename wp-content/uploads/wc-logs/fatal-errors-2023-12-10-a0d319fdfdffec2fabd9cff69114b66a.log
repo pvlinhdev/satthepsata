@@ -1,0 +1,282 @@
+2023-12-10T01:48:47+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, class Easy_Callnow_i18n does not have a method "load_plugin_textdomain" in D:\laragon\www\sata\wp-includes\class-wp-hook.php:324
+Stack trace:
+#0 D:\laragon\www\sata\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#1 D:\laragon\www\sata\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 D:\laragon\www\sata\wp-settings.php(506): do_action('plugins_loaded')
+#3 D:\laragon\www\sata\wp-config.php(96): require_once('D:\\laragon\\www\\...')
+#4 D:\laragon\www\sata\wp-load.php(50): require_once('D:\\laragon\\www\\...')
+#5 D:\laragon\www\sata\wp-admin\admin.php(34): require_once('D:\\laragon\\www\\...')
+#6 D:\laragon\www\sata\wp-admin\plugins.php(10): require_once('D:\\laragon\\www\\...')
+#7 {main}
+  thrown in D:\laragon\www\sata\wp-includes\class-wp-hook.php on line 324
+
+2023-12-10T01:48:56+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, class Easy_Callnow_i18n does not have a method "load_plugin_textdomain" in D:\laragon\www\sata\wp-includes\class-wp-hook.php:324
+Stack trace:
+#0 D:\laragon\www\sata\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#1 D:\laragon\www\sata\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 D:\laragon\www\sata\wp-settings.php(506): do_action('plugins_loaded')
+#3 D:\laragon\www\sata\wp-config.php(96): require_once('D:\\laragon\\www\\...')
+#4 D:\laragon\www\sata\wp-load.php(50): require_once('D:\\laragon\\www\\...')
+#5 D:\laragon\www\sata\wp-admin\admin.php(34): require_once('D:\\laragon\\www\\...')
+#6 D:\laragon\www\sata\wp-admin\plugins.php(10): require_once('D:\\laragon\\www\\...')
+#7 {main}
+  thrown in D:\laragon\www\sata\wp-includes\class-wp-hook.php on line 324
+
+2023-12-10T01:48:58+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, class Easy_Callnow_i18n does not have a method "load_plugin_textdomain" in D:\laragon\www\sata\wp-includes\class-wp-hook.php:324
+Stack trace:
+#0 D:\laragon\www\sata\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#1 D:\laragon\www\sata\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 D:\laragon\www\sata\wp-settings.php(506): do_action('plugins_loaded')
+#3 D:\laragon\www\sata\wp-config.php(96): require_once('D:\\laragon\\www\\...')
+#4 D:\laragon\www\sata\wp-load.php(50): require_once('D:\\laragon\\www\\...')
+#5 D:\laragon\www\sata\wp-admin\admin.php(34): require_once('D:\\laragon\\www\\...')
+#6 D:\laragon\www\sata\wp-admin\plugin-install.php(16): require_once('D:\\laragon\\www\\...')
+#7 {main}
+  thrown in D:\laragon\www\sata\wp-includes\class-wp-hook.php on line 324
+
+2023-12-10T01:49:01+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, class Easy_Callnow_i18n does not have a method "load_plugin_textdomain" in D:\laragon\www\sata\wp-includes\class-wp-hook.php:324
+Stack trace:
+#0 D:\laragon\www\sata\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#1 D:\laragon\www\sata\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 D:\laragon\www\sata\wp-settings.php(506): do_action('plugins_loaded')
+#3 D:\laragon\www\sata\wp-config.php(96): require_once('D:\\laragon\\www\\...')
+#4 D:\laragon\www\sata\wp-load.php(50): require_once('D:\\laragon\\www\\...')
+#5 D:\laragon\www\sata\wp-admin\admin.php(34): require_once('D:\\laragon\\www\\...')
+#6 {main}
+  thrown in D:\laragon\www\sata\wp-includes\class-wp-hook.php on line 324
+
+2023-12-10T01:49:05+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, class Easy_Callnow_i18n does not have a method "load_plugin_textdomain" in D:\laragon\www\sata\wp-includes\class-wp-hook.php:324
+Stack trace:
+#0 D:\laragon\www\sata\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#1 D:\laragon\www\sata\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 D:\laragon\www\sata\wp-settings.php(506): do_action('plugins_loaded')
+#3 D:\laragon\www\sata\wp-config.php(96): require_once('D:\\laragon\\www\\...')
+#4 D:\laragon\www\sata\wp-load.php(50): require_once('D:\\laragon\\www\\...')
+#5 D:\laragon\www\sata\wp-admin\admin.php(34): require_once('D:\\laragon\\www\\...')
+#6 {main}
+  thrown in D:\laragon\www\sata\wp-includes\class-wp-hook.php on line 324
+
+2023-12-10T01:49:09+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, class Easy_Callnow_i18n does not have a method "load_plugin_textdomain" in D:\laragon\www\sata\wp-includes\class-wp-hook.php:324
+Stack trace:
+#0 D:\laragon\www\sata\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#1 D:\laragon\www\sata\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 D:\laragon\www\sata\wp-settings.php(506): do_action('plugins_loaded')
+#3 D:\laragon\www\sata\wp-config.php(96): require_once('D:\\laragon\\www\\...')
+#4 D:\laragon\www\sata\wp-load.php(50): require_once('D:\\laragon\\www\\...')
+#5 D:\laragon\www\sata\wp-admin\admin.php(34): require_once('D:\\laragon\\www\\...')
+#6 {main}
+  thrown in D:\laragon\www\sata\wp-includes\class-wp-hook.php on line 324
+
+2023-12-10T01:49:12+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, class Easy_Callnow_i18n does not have a method "load_plugin_textdomain" in D:\laragon\www\sata\wp-includes\class-wp-hook.php:324
+Stack trace:
+#0 D:\laragon\www\sata\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#1 D:\laragon\www\sata\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 D:\laragon\www\sata\wp-settings.php(506): do_action('plugins_loaded')
+#3 D:\laragon\www\sata\wp-config.php(96): require_once('D:\\laragon\\www\\...')
+#4 D:\laragon\www\sata\wp-load.php(50): require_once('D:\\laragon\\www\\...')
+#5 D:\laragon\www\sata\wp-admin\admin.php(34): require_once('D:\\laragon\\www\\...')
+#6 D:\laragon\www\sata\wp-admin\index.php(10): require_once('D:\\laragon\\www\\...')
+#7 {main}
+  thrown in D:\laragon\www\sata\wp-includes\class-wp-hook.php on line 324
+
+2023-12-10T01:49:26+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, class Easy_Callnow_i18n does not have a method "load_plugin_textdomain" in D:\laragon\www\sata\wp-includes\class-wp-hook.php:324
+Stack trace:
+#0 D:\laragon\www\sata\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#1 D:\laragon\www\sata\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 D:\laragon\www\sata\wp-settings.php(506): do_action('plugins_loaded')
+#3 D:\laragon\www\sata\wp-config.php(96): require_once('D:\\laragon\\www\\...')
+#4 D:\laragon\www\sata\wp-load.php(50): require_once('D:\\laragon\\www\\...')
+#5 D:\laragon\www\sata\wp-blog-header.php(13): require_once('D:\\laragon\\www\\...')
+#6 D:\laragon\www\sata\index.php(17): require('D:\\laragon\\www\\...')
+#7 {main}
+  thrown in D:\laragon\www\sata\wp-includes\class-wp-hook.php on line 324
+
+2023-12-10T01:49:39+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, class Easy_Callnow_i18n does not have a method "load_plugin_textdomain" in D:\laragon\www\sata\wp-includes\class-wp-hook.php:324
+Stack trace:
+#0 D:\laragon\www\sata\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#1 D:\laragon\www\sata\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 D:\laragon\www\sata\wp-settings.php(506): do_action('plugins_loaded')
+#3 D:\laragon\www\sata\wp-config.php(96): require_once('D:\\laragon\\www\\...')
+#4 D:\laragon\www\sata\wp-load.php(50): require_once('D:\\laragon\\www\\...')
+#5 D:\laragon\www\sata\wp-admin\admin-ajax.php(22): require_once('D:\\laragon\\www\\...')
+#6 {main}
+  thrown in D:\laragon\www\sata\wp-includes\class-wp-hook.php on line 324
+
+2023-12-10T01:51:41+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, class Easy_Callnow_i18n does not have a method "load_plugin_textdomain" in D:\laragon\www\sata\wp-includes\class-wp-hook.php:324
+Stack trace:
+#0 D:\laragon\www\sata\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#1 D:\laragon\www\sata\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 D:\laragon\www\sata\wp-settings.php(506): do_action('plugins_loaded')
+#3 D:\laragon\www\sata\wp-config.php(96): require_once('D:\\laragon\\www\\...')
+#4 D:\laragon\www\sata\wp-load.php(50): require_once('D:\\laragon\\www\\...')
+#5 D:\laragon\www\sata\wp-admin\admin-ajax.php(22): require_once('D:\\laragon\\www\\...')
+#6 {main}
+  thrown in D:\laragon\www\sata\wp-includes\class-wp-hook.php on line 324
+
+2023-12-10T01:52:37+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, class Easy_Callnow_i18n does not have a method "load_plugin_textdomain" in D:\laragon\www\sata\wp-includes\class-wp-hook.php:324
+Stack trace:
+#0 D:\laragon\www\sata\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#1 D:\laragon\www\sata\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 D:\laragon\www\sata\wp-settings.php(506): do_action('plugins_loaded')
+#3 D:\laragon\www\sata\wp-config.php(96): require_once('D:\\laragon\\www\\...')
+#4 D:\laragon\www\sata\wp-load.php(50): require_once('D:\\laragon\\www\\...')
+#5 D:\laragon\www\sata\wp-admin\admin.php(34): require_once('D:\\laragon\\www\\...')
+#6 D:\laragon\www\sata\wp-admin\index.php(10): require_once('D:\\laragon\\www\\...')
+#7 {main}
+  thrown in D:\laragon\www\sata\wp-includes\class-wp-hook.php on line 324
+
+2023-12-10T01:52:41+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, class Easy_Callnow_i18n does not have a method "load_plugin_textdomain" in D:\laragon\www\sata\wp-includes\class-wp-hook.php:324
+Stack trace:
+#0 D:\laragon\www\sata\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#1 D:\laragon\www\sata\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 D:\laragon\www\sata\wp-settings.php(506): do_action('plugins_loaded')
+#3 D:\laragon\www\sata\wp-config.php(96): require_once('D:\\laragon\\www\\...')
+#4 D:\laragon\www\sata\wp-load.php(50): require_once('D:\\laragon\\www\\...')
+#5 D:\laragon\www\sata\wp-admin\admin-ajax.php(22): require_once('D:\\laragon\\www\\...')
+#6 {main}
+  thrown in D:\laragon\www\sata\wp-includes\class-wp-hook.php on line 324
+
+2023-12-10T01:52:45+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, class Easy_Callnow_i18n does not have a method "load_plugin_textdomain" in D:\laragon\www\sata\wp-includes\class-wp-hook.php:324
+Stack trace:
+#0 D:\laragon\www\sata\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#1 D:\laragon\www\sata\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 D:\laragon\www\sata\wp-settings.php(506): do_action('plugins_loaded')
+#3 D:\laragon\www\sata\wp-config.php(96): require_once('D:\\laragon\\www\\...')
+#4 D:\laragon\www\sata\wp-load.php(50): require_once('D:\\laragon\\www\\...')
+#5 D:\laragon\www\sata\wp-admin\admin.php(34): require_once('D:\\laragon\\www\\...')
+#6 {main}
+  thrown in D:\laragon\www\sata\wp-includes\class-wp-hook.php on line 324
+
+2023-12-10T01:52:50+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, class Easy_Callnow_i18n does not have a method "load_plugin_textdomain" in D:\laragon\www\sata\wp-includes\class-wp-hook.php:324
+Stack trace:
+#0 D:\laragon\www\sata\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#1 D:\laragon\www\sata\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 D:\laragon\www\sata\wp-settings.php(506): do_action('plugins_loaded')
+#3 D:\laragon\www\sata\wp-config.php(96): require_once('D:\\laragon\\www\\...')
+#4 D:\laragon\www\sata\wp-load.php(50): require_once('D:\\laragon\\www\\...')
+#5 D:\laragon\www\sata\wp-admin\admin.php(34): require_once('D:\\laragon\\www\\...')
+#6 {main}
+  thrown in D:\laragon\www\sata\wp-includes\class-wp-hook.php on line 324
+
+2023-12-10T01:54:42+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, class Easy_Callnow_i18n does not have a method "load_plugin_textdomain" in D:\laragon\www\sata\wp-includes\class-wp-hook.php:324
+Stack trace:
+#0 D:\laragon\www\sata\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#1 D:\laragon\www\sata\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 D:\laragon\www\sata\wp-settings.php(506): do_action('plugins_loaded')
+#3 D:\laragon\www\sata\wp-config.php(96): require_once('D:\\laragon\\www\\...')
+#4 D:\laragon\www\sata\wp-load.php(50): require_once('D:\\laragon\\www\\...')
+#5 D:\laragon\www\sata\wp-admin\admin-ajax.php(22): require_once('D:\\laragon\\www\\...')
+#6 {main}
+  thrown in D:\laragon\www\sata\wp-includes\class-wp-hook.php on line 324
+
+2023-12-10T01:56:43+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, class Easy_Callnow_i18n does not have a method "load_plugin_textdomain" in D:\laragon\www\sata\wp-includes\class-wp-hook.php:324
+Stack trace:
+#0 D:\laragon\www\sata\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#1 D:\laragon\www\sata\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 D:\laragon\www\sata\wp-settings.php(506): do_action('plugins_loaded')
+#3 D:\laragon\www\sata\wp-config.php(96): require_once('D:\\laragon\\www\\...')
+#4 D:\laragon\www\sata\wp-load.php(50): require_once('D:\\laragon\\www\\...')
+#5 D:\laragon\www\sata\wp-admin\admin-ajax.php(22): require_once('D:\\laragon\\www\\...')
+#6 {main}
+  thrown in D:\laragon\www\sata\wp-includes\class-wp-hook.php on line 324
+
+2023-12-10T01:57:58+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, class Easy_Callnow_i18n does not have a method "load_plugin_textdomain" in D:\laragon\www\sata\wp-includes\class-wp-hook.php:324
+Stack trace:
+#0 D:\laragon\www\sata\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#1 D:\laragon\www\sata\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 D:\laragon\www\sata\wp-settings.php(506): do_action('plugins_loaded')
+#3 D:\laragon\www\sata\wp-config.php(96): require_once('D:\\laragon\\www\\...')
+#4 D:\laragon\www\sata\wp-load.php(50): require_once('D:\\laragon\\www\\...')
+#5 D:\laragon\www\sata\wp-admin\admin-ajax.php(22): require_once('D:\\laragon\\www\\...')
+#6 {main}
+  thrown in D:\laragon\www\sata\wp-includes\class-wp-hook.php on line 324
+
+2023-12-10T01:58:06+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, class Easy_Callnow_i18n does not have a method "load_plugin_textdomain" in D:\laragon\www\sata\wp-includes\class-wp-hook.php:324
+Stack trace:
+#0 D:\laragon\www\sata\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#1 D:\laragon\www\sata\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 D:\laragon\www\sata\wp-settings.php(506): do_action('plugins_loaded')
+#3 D:\laragon\www\sata\wp-config.php(96): require_once('D:\\laragon\\www\\...')
+#4 D:\laragon\www\sata\wp-load.php(50): require_once('D:\\laragon\\www\\...')
+#5 D:\laragon\www\sata\wp-blog-header.php(13): require_once('D:\\laragon\\www\\...')
+#6 D:\laragon\www\sata\index.php(17): require('D:\\laragon\\www\\...')
+#7 {main}
+  thrown in D:\laragon\www\sata\wp-includes\class-wp-hook.php on line 324
+
+2023-12-10T01:58:17+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, class Easy_Callnow_i18n does not have a method "load_plugin_textdomain" in D:\laragon\www\sata\wp-includes\class-wp-hook.php:324
+Stack trace:
+#0 D:\laragon\www\sata\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#1 D:\laragon\www\sata\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 D:\laragon\www\sata\wp-settings.php(506): do_action('plugins_loaded')
+#3 D:\laragon\www\sata\wp-config.php(96): require_once('D:\\laragon\\www\\...')
+#4 D:\laragon\www\sata\wp-load.php(50): require_once('D:\\laragon\\www\\...')
+#5 D:\laragon\www\sata\wp-admin\admin.php(34): require_once('D:\\laragon\\www\\...')
+#6 {main}
+  thrown in D:\laragon\www\sata\wp-includes\class-wp-hook.php on line 324
+
+2023-12-10T01:58:20+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, class Easy_Callnow_i18n does not have a method "load_plugin_textdomain" in D:\laragon\www\sata\wp-includes\class-wp-hook.php:324
+Stack trace:
+#0 D:\laragon\www\sata\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#1 D:\laragon\www\sata\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 D:\laragon\www\sata\wp-settings.php(506): do_action('plugins_loaded')
+#3 D:\laragon\www\sata\wp-config.php(96): require_once('D:\\laragon\\www\\...')
+#4 D:\laragon\www\sata\wp-load.php(50): require_once('D:\\laragon\\www\\...')
+#5 D:\laragon\www\sata\wp-admin\admin.php(34): require_once('D:\\laragon\\www\\...')
+#6 {main}
+  thrown in D:\laragon\www\sata\wp-includes\class-wp-hook.php on line 324
+
+2023-12-10T01:58:23+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, class Easy_Callnow_i18n does not have a method "load_plugin_textdomain" in D:\laragon\www\sata\wp-includes\class-wp-hook.php:324
+Stack trace:
+#0 D:\laragon\www\sata\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#1 D:\laragon\www\sata\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 D:\laragon\www\sata\wp-settings.php(506): do_action('plugins_loaded')
+#3 D:\laragon\www\sata\wp-config.php(96): require_once('D:\\laragon\\www\\...')
+#4 D:\laragon\www\sata\wp-load.php(50): require_once('D:\\laragon\\www\\...')
+#5 D:\laragon\www\sata\wp-admin\admin.php(34): require_once('D:\\laragon\\www\\...')
+#6 {main}
+  thrown in D:\laragon\www\sata\wp-includes\class-wp-hook.php on line 324
+
+2023-12-10T01:58:53+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, class Easy_Callnow_i18n does not have a method "load_plugin_textdomain" in D:\laragon\www\sata\wp-includes\class-wp-hook.php:324
+Stack trace:
+#0 D:\laragon\www\sata\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#1 D:\laragon\www\sata\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 D:\laragon\www\sata\wp-settings.php(506): do_action('plugins_loaded')
+#3 D:\laragon\www\sata\wp-config.php(96): require_once('D:\\laragon\\www\\...')
+#4 D:\laragon\www\sata\wp-load.php(50): require_once('D:\\laragon\\www\\...')
+#5 D:\laragon\www\sata\wp-admin\admin.php(34): require_once('D:\\laragon\\www\\...')
+#6 {main}
+  thrown in D:\laragon\www\sata\wp-includes\class-wp-hook.php on line 324
+
+2023-12-10T01:58:57+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, class Easy_Callnow_i18n does not have a method "load_plugin_textdomain" in D:\laragon\www\sata\wp-includes\class-wp-hook.php:324
+Stack trace:
+#0 D:\laragon\www\sata\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#1 D:\laragon\www\sata\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 D:\laragon\www\sata\wp-settings.php(506): do_action('plugins_loaded')
+#3 D:\laragon\www\sata\wp-config.php(96): require_once('D:\\laragon\\www\\...')
+#4 D:\laragon\www\sata\wp-load.php(50): require_once('D:\\laragon\\www\\...')
+#5 D:\laragon\www\sata\wp-admin\admin.php(34): require_once('D:\\laragon\\www\\...')
+#6 {main}
+  thrown in D:\laragon\www\sata\wp-includes\class-wp-hook.php on line 324
+
+2023-12-10T01:59:01+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, class Easy_Callnow_i18n does not have a method "load_plugin_textdomain" in D:\laragon\www\sata\wp-includes\class-wp-hook.php:324
+Stack trace:
+#0 D:\laragon\www\sata\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#1 D:\laragon\www\sata\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 D:\laragon\www\sata\wp-settings.php(506): do_action('plugins_loaded')
+#3 D:\laragon\www\sata\wp-config.php(96): require_once('D:\\laragon\\www\\...')
+#4 D:\laragon\www\sata\wp-load.php(50): require_once('D:\\laragon\\www\\...')
+#5 D:\laragon\www\sata\wp-admin\admin.php(34): require_once('D:\\laragon\\www\\...')
+#6 {main}
+  thrown in D:\laragon\www\sata\wp-includes\class-wp-hook.php on line 324
+
+2023-12-10T01:59:58+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, class Easy_Callnow_i18n does not have a method "load_plugin_textdomain" in D:\laragon\www\sata\wp-includes\class-wp-hook.php:324
+Stack trace:
+#0 D:\laragon\www\sata\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#1 D:\laragon\www\sata\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 D:\laragon\www\sata\wp-settings.php(506): do_action('plugins_loaded')
+#3 D:\laragon\www\sata\wp-config.php(96): require_once('D:\\laragon\\www\\...')
+#4 D:\laragon\www\sata\wp-load.php(50): require_once('D:\\laragon\\www\\...')
+#5 D:\laragon\www\sata\wp-admin\admin-ajax.php(22): require_once('D:\\laragon\\www\\...')
+#6 {main}
+  thrown in D:\laragon\www\sata\wp-includes\class-wp-hook.php on line 324
+
